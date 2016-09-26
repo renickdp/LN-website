@@ -1,0 +1,264 @@
+.maintable
+{
+
+}
+
+.maintable TH
+{
+    font-size: 10pt; 
+    FONT-WEIGHT: bold;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+    BACKGROUND-COLOR: #ECECFF;
+    background-image : url('img/bg_mnu.gif'); 
+}
+
+.maintable A
+{
+   TEXT-DECORATION: none;
+   COLOR:#cc3300;
+   font-weight : normal;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+.maintable A:Visited
+{
+   COLOR:#cc3300;
+   font-weight : normal;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+.bigtable
+{
+ 
+}
+
+.mainmenutable TH
+{
+    font-size: 10pt; 
+    FONT-WEIGHT: bold;
+    COLOR: #CC3300;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+    BACKGROUND-COLOR: #CC3300;
+    background-image : url('img/bg_mnu.gif');
+    }
+.mainmenutable TD
+{
+    font-size: 10pt; 
+    COLOR: #CC3300;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+  }
+
+.mainmenutable A:VISITED
+{
+   font-weight : normal;
+   COLOR: #CC3300;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+
+.mainmenutable A
+{
+   TEXT-DECORATION: none;
+   COLOR: #CC3300;
+   font-weight : normal;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+ 
+ .mainmenutable A:HOVER
+{
+   TEXT-DECORATION: underline;
+   COLOR:#FFCC00;
+   font-weight : normal;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+
+.menutable
+{
+/*background-image : url('img/sqr_bg.gif'); */
+}
+
+.menutable TH
+{
+    font-size: 10pt; 
+    FONT-WEIGHT: bold;
+    COLOR: #CC3300;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+    background-image : url('img/bg_mnu.gif');
+    }
+
+.menutable A
+{
+   TEXT-DECORATION: none;
+   COLOR: #CC3300;
+   font-weight : normal;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+.menutable A:VISITED
+{
+   font-weight : normal;
+   COLOR: #CC3300;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+ 
+.menutable A:HOVER
+{
+   TEXT-DECORATION: underline;
+   COLOR:#FFCC00;
+   font-weight : normal;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+ 
+   
+.btntable
+{
+border:1px solid #EFEFEF; 
+
+}
+
+.btntable TD
+{
+    font-size: 8pt; 
+    FONT-WEIGHT: normal;
+    COLOR: #CC3300;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+    BACKGROUND-COLOR: #FFE7CE;
+    }
+
+.btntable A
+{
+   TEXT-DECORATION: none;
+   COLOR: #CC3300;
+   font-weight : normal;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+.btntable A:visited
+{
+   TEXT-DECORATION: none;
+   COLOR: #CC3300;
+   font-weight : normal;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+
+.boxstyle
+{ 	
+FONT-FAMILY: Tahoma, Arial, sans-serif; 
+color : #0099cc; 
+font-size: 8pt; 
+border-style: solid; 
+border-width: 1
+}
+
+.boxregular
+{ 	
+FONT-FAMILY: Tahoma, Arial, sans-serif; 
+color : #CC3300; 
+font-size: 8pt; 
+border-style: solid; 
+border-width: 1
+}
+
+.boxrequired
+{ 	
+FONT-FAMILY: Tahoma, Arial, sans-serif; 
+color : #CC3300; 
+font-size: 8pt; 
+border-style: solid; 
+border-width: 1
+}
+
+body, td, tr, p, li, ol, ul, a, font {FONT-FAMILY: Tahoma, Arial, sans-serif;  }
+
+
+.little      { font-size: 8pt }
+BODY
+{
+    padding:0px; MARGIN: 0px 10px;
+    FONT-SIZE: x-small;
+    COLOR: #CC3300;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+    background-image : url('img/bg.gif');
+
+     
+}
+
+/*table */
+
+TABLE
+{
+    empty-cells :show
+   
+}
+
+
+TD
+{
+    FONT-SIZE: 12px;
+    COLOR: #CC3300;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+H1
+{
+    FONT-SIZE: 18px;
+    COLOR: #CC3300;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+H2
+{
+    FONT-SIZE: 16px;
+    COLOR: #CC3300;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+H3
+{
+    FONT-SIZE: 14px;
+    COLOR: #CC3300;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+H4
+{
+    FONT-SIZE: 12px;
+    COLOR: #CC3300;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+HR
+{
+    COLOR: #E6E6E6;
+}
+
+A
+{
+   TEXT-DECORATION: none;
+   COLOR: #FFCC00;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+A:visited
+{
+    COLOR: #FFCC00;
+    font-weight : normal;
+    TEXT-DECORATION: none;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+A:hover
+{
+    COLOR: #993333;
+    TEXT-DECORATION: none;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+A:active
+{
+    COLOR: #993333;
+    TEXT-DECORATION: underline;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+    }
+ 
+li
+{
+	FONT-SIZE: 12px;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}

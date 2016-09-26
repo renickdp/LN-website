@@ -1,0 +1,275 @@
+.maintable
+{
+border:1px solid #ECECFF; 
+}
+
+.maintable TH
+{
+    font-size: 10pt; 
+    FONT-WEIGHT: bold;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+    BACKGROUND-COLOR: #ECECFF;
+    background-image : url('img/bg_mnu.gif'); 
+}
+
+.headstable
+{
+border:1px solid #ECECFF; 
+background-image : url('img/bg_mnu.gif'); 
+}
+
+
+.headstable TH
+{
+    font-size: 10pt; 
+    FONT-WEIGHT: bold;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+    BACKGROUND-COLOR: #ECECFF
+}
+
+.headstable A
+{
+    TEXT-DECORATION: none;
+   COLOR: #336699;
+   font-weight : normal;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+
+.daytable
+{
+border:1px solid #ECECFF; 
+}
+
+.daytable TD
+{
+border:1px solid #ECECFF; 
+}
+
+
+.daytable TH
+{
+    font-size: 10pt; 
+    FONT-WEIGHT: bold;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+        BACKGROUND-COLOR: #ECECFF
+}
+
+.bigtable
+{
+border:1px solid #DFEEFD; 
+}
+
+.menutable
+{
+border:1px solid #ECECFF; 
+background-image : url('img/sqr_bg.gif'); 
+}
+
+.menutable TH
+{
+    font-size: 10pt; 
+    FONT-WEIGHT: bold;
+    COLOR: mediumblue;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+    BACKGROUND-COLOR: #ECECFF;
+    background-image : url('img/bg_mnu.gif');
+    }
+
+.menutable A
+{
+    TEXT-DECORATION: none;
+   font-weight : normal;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+    
+.btntable
+{
+border:1px solid #EFEFEF; 
+
+}
+
+.btntable TD
+{
+    font-size: 8pt; 
+    FONT-WEIGHT: normal;
+    COLOR: #c0c0c0;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+    BACKGROUND-COLOR: #EFEFEF
+    }
+
+.btntable A
+{
+   TEXT-DECORATION: none;
+   font-weight : normal;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+.boxfocus /* active box */
+{ 	
+FONT-FAMILY: Tahoma, Arial, sans-serif; 
+color : #0099cc; 
+font-size: 8pt; 
+background-color: #add8e6;
+border-style: solid; 
+border-width: 1
+}
+
+.boxlocked
+{ 	
+FONT-FAMILY: Tahoma, Arial, sans-serif; 
+color : #oo3366; 
+font-size: 8pt; 
+border-style: dotted; 
+border-width: 1
+}
+
+.boxstyle
+{ 	
+FONT-FAMILY: Tahoma, Arial, sans-serif; 
+color : #0099cc; 
+font-size: 8pt; 
+border-style: solid; 
+border-width: 1
+}
+
+.boxregular
+{ 	
+FONT-FAMILY: Tahoma, Arial, sans-serif; 
+color : #000080; 
+font-size: 8pt; 
+border-style: solid; 
+border-width: 1
+}
+
+.boxrequired
+{ 	
+FONT-FAMILY: Tahoma, Arial, sans-serif; 
+color : #ff0066; 
+font-size: 8pt; 
+border-style: solid; 
+border-width: 1
+}
+
+body, td, tr, p, li, ol, ul, a, font {FONT-FAMILY: Tahoma, Arial, sans-serif;  }
+
+
+
+.yesterday 
+{
+    COLOR: #999999;;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+    BACKGROUND-COLOR: #F0F0F0;
+}
+
+.overdue      
+{
+ font-size: 7pt; 
+ color: #cc3300; 
+ font-weight : bold;  
+ }
+
+.little      { font-size: 8pt }
+BODY
+{
+    padding:0px; MARGIN: 0px 10px;
+    FONT-SIZE: x-small;
+    COLOR: #003366;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+    background-image : url('img/bg.gif');
+
+     
+}
+
+/*table */
+
+TABLE
+{
+    empty-cells :show
+   
+}
+
+
+TD
+{
+    FONT-SIZE: 12px;
+    COLOR: #003366;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+H1
+{
+    FONT-SIZE: 18px;
+    COLOR: #003366;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+H2
+{
+    FONT-SIZE: 16px;
+    COLOR: #003366;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+H3
+{
+    FONT-SIZE: 14px;
+    COLOR: #003366;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+H4
+{
+    FONT-SIZE: 12px;
+    COLOR: #003366;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+HR
+{
+    COLOR: #E6E6E6;
+}
+
+A
+{
+   TEXT-DECORATION: none;
+   COLOR: #003366;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+A:visited
+{
+    COLOR: #336699;
+    font-weight : normal;
+    TEXT-DECORATION: none;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+A:hover
+{
+    COLOR: #ffcc00;
+    TEXT-DECORATION: none;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+A:active
+{
+    COLOR: #0080FF;
+    TEXT-DECORATION: underline;
+    FONT-FAMILY: Tahoma, Arial, sans-serif; 
+    }
+ 
+li
+{
+	FONT-SIZE: 12px;
+   FONT-FAMILY: Tahoma, Arial, sans-serif; 
+}
+
+.important
+{
+font-weight : bold;
+color : #FF0066 ;
+background-color: #add8e6
+}
+
+.markii
+{
+font-weight : normal;
+color : #87ceeb ;
+FONT-SIZE: 10px
+}
