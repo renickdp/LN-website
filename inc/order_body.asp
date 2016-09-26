@@ -53,7 +53,7 @@ If Not rs.EOF Then
         LN.COM<br>
         TEST<br>
         TEST<br>
-        <a href="mailto:info@id31.net">info@LN.COM</a><br>
+        <a href="mailto:info@ln.com">info@LN.COM</a><br>
         <br>
 &nbsp;</p>
         </td>
